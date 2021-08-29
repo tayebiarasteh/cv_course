@@ -3,7 +3,7 @@ Created on May 19, 2020.
 RANSAC algorithm.
 
 @authors:
-Soroosh Tayebi Arasteh <soroosh.arasteh@fau.de> https://github.com/starasteh/
+Soroosh Tayebi Arasteh <soroosh.arasteh@fau.de> https://github.com/tayebiarasteh/
 Amin Heydarshahi <amin.heydarshahi@fau.de> https://github.com/aminheydarshahi/
 """
 

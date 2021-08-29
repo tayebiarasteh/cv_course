@@ -2,7 +2,7 @@
 Created on May 9, 2020.
 
 @authors:
-Soroosh Tayebi Arasteh <soroosh.arasteh@fau.de> https://github.com/starasteh/
+Soroosh Tayebi Arasteh <soroosh.arasteh@fau.de> https://github.com/tayebiarasteh/
 Amin Heydarshahi <amin.heydarshahi@fau.de> https://github.com/aminheydarshahi/
 """
 
